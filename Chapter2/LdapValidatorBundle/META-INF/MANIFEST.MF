@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: LdapValidatorBundle
+Bundle-SymbolicName: LdapValidatorBundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.unmi.login.activator.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Import-Package: com.unmi.login.service,
+ org.osgi.framework;version="1.3.0"
